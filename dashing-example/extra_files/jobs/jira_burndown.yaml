@@ -1,0 +1,7 @@
+---
+:jira_url: https://issues.apache.org/jira
+:username: 
+:password: 
+:numberOfSprintsToShow: 3
+:sprint_mapping:
+  burndown: 41
