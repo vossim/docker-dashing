@@ -1,0 +1,12 @@
+---
+jenkins_uri: https://builds.apache.org
+jenkins_auth:
+  name: 
+  password: 
+job_mapping:
+  job1:
+    :job: Apache Jackrabbit Oak matrix
+  job2:
+    :job: Hadoop-Hdfs-trunk-Java8
+  job3:
+    :job: cayenne-master
